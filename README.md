@@ -14,8 +14,8 @@ Install all required npm packages by running npm install from the command line i
 Start the api by running npm start from the command line in the project root folder, you should see the message Server listening on port 4000. Follow the instructions below to test with Postman or hook up with one of the example single page applications available (React, Angular or Vue).
 
 
-Running a React client application with the NodeJS API
-For full details about the example React application see the post React Hooks + Redux - User Registration and Login Tutorial & Example. But to get up and running quickly just follow the below steps.
+Running a React client application with the NodeJS API https://github.com/akashranjanofficial/user-management-system/tree/main/react-hooks-redux-registration-login-example-master
+For full details about the example React application see the post React Hooks + Redux - User Registration. But to get up and running quickly just follow the below steps.
 
 Download or clone the React tutorial code from 
 Install all required npm packages by running npm install from the command line in the project root folder (where the package.json is located).
