@@ -1,4 +1,4 @@
-# node-mongo-registration-login-api
+#USER MANAGMENT SYSTEM
 
 NodeJS + MongoDB API for User Management, Authentication and Registration
 
