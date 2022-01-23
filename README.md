@@ -1,2 +1,5 @@
-# user-management-system
-User Management and Registration ,API for Authentication using NodeJS and MongoDB 
+# node-mongo-registration-login-api
+
+NodeJS + MongoDB API for User Management, Authentication and Registration
+
+For documentation and instructions check out #readme
